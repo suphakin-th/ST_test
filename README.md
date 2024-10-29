@@ -1,2 +1,12 @@
-# ST_test
-3 part of test structure cleancode and pipe line
+# ST TEST
+
+for ```SUPHAKIN THIWONG```
+# FastAPI Async CRUD Application
+
+This is a FastAPI application implementing asynchronous CRUD operations with SQLite.
+
+## Setup
+
+```bash
+pip install -r requirements.txt
+```
